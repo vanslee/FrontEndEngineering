@@ -1,0 +1,37 @@
+{
+  "name": "FrontEndEngineering",
+  "version": "1.0.0",
+  "description": "前端工程化项目除体验",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "npm run clean && tsc",
+    "clean": "rimraf dist",
+    "lint": "eslint src --ext .js,.ts --cache --fix",
+    "prepare": "husky install"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanslee/FrontEndEngineering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanslee/FrontEndEngineering/issues"
+  },
+  "homepage": "https://github.com/vanslee/FrontEndEngineering#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
+    "eslint": "^8.44.0",
+    "eslint-plugin-vue": "^9.15.1",
+    "husky": "^8.0.3",
+    "typescript": "^5.1.6"
+  }
+}
