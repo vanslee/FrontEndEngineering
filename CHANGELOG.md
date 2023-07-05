@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/vanslee/FrontEndEngineering/compare/v1.1.0...v1.2.0) (2023-07-05)
+
+
+### Features
+
+* complete the CI/CD workflow ([fd8a3df](https://github.com/vanslee/FrontEndEngineering/commit/fd8a3df852a7e10098a977b8ad3a81ffb229f91f))
+
 # [1.1.0](https://github.com/vanslee/FrontEndEngineering/compare/v1.0.0...v1.1.0) (2023-07-05)
 
 
