@@ -15,7 +15,8 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 18
-          # 修改githubtoken
+          # 修改githubtoken变成classtic
+          # 修改npmtoken变成Automation
       - run: npm ci --ignore-scripts
       - run: npm run build
       - run: npx semantic-release
