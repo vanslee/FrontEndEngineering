@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/vanslee/FrontEndEngineering/compare/v1.2.0...v1.2.1) (2023-07-05)
+
+
+### Bug Fixes
+
+* update package.json name ([79546a4](https://github.com/vanslee/FrontEndEngineering/commit/79546a44f9edb93d436d5cd996abe73f0aa455a7))
+* update package.json name ([c00a206](https://github.com/vanslee/FrontEndEngineering/commit/c00a2067b41fec2cf7ef8fc306bd064d9e6f5790))
+
 # [1.2.0](https://github.com/vanslee/FrontEndEngineering/compare/v1.1.0...v1.2.0) (2023-07-05)
 
 
